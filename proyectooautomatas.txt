@@ -1,0 +1,12 @@
+                       REQUERIMIENTO PARA CORRER EL PROGRAMA AUTOMATAS
+
+                 1)En el proyecto hay una carpeta donde se encuentran las librerias.
+                 2)Tendra que tener instalado el JDK11, ya que si usted no tiene el JDK 11 no le va correr ya que trabajamos todos con el JDK11.
+                    
+                     - aqui le adjuntaremos un video de como puede de instalar el JDK.
+                       https://www.youtube.com/watch?v=l0dcHaHo6QY
+
+                 3)Adentro va una carpeta la cual se llama "empaquetado" y lo que  tiene que hacer es colocarlo donde tiene el proyecto principal.
+                 
+                   NOTA
+                Cual quier inconveniente nos podria escribir por watsap. 
